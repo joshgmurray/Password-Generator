@@ -16,4 +16,4 @@ https://joshgmurray.github.io/Password-Generator/
 ## Repo Link
 https://github.com/joshgmurray/Password-Generator/
 ## Screenshot
-! [screenshot](/Screen%20Recording%202022-08-18%20at%205.15.07%20PM.mov)
+![screenshot](/Screen%20Shot%202022-08-18%20at%205.24.55%20PM%20(2).png)
