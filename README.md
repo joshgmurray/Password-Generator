@@ -12,8 +12,8 @@ For this challenge I was tasked with taking the starter code of a Password Gener
 * Added working links to my application images to navigate users to corresponding applications when clicked.
 * Ensured that interface adapts to multiple screen sizes.
 ## Live Link
-https://joshgmurray.github.io/professional-portfolio/
+https://joshgmurray.github.io/Password-Generator/
 ## Repo Link
-https://github.com/joshgmurray/professional-portfolio/
+https://github.com/joshgmurray/Password-Generator/
 ## Screenshot
-![screenshot](./Assets/Screen%20Shot%202022-08-17%20at%205.18.24%20PM.png)
+! [screenshot](Screen Recording 2022-08-18 at 5.15.07 PM.mov)
