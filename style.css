@@ -97,7 +97,7 @@ button[disabled] {
   float: right;
 }
 
-#password {
+#passwords {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -108,12 +108,12 @@ button[disabled] {
   padding-left: 15px;
   padding-right: 15px;
   padding-bottom: 85px;
-  font-size: 1.2rem;
+  font-size: 50px;
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
   border: 2px dashed #c0c7cf;
-  border-radius: 6px;
+  border-radius: 4px;
   resize: none;
   overflow: hidden;
 }

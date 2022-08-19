@@ -11,6 +11,7 @@ const incSymbols = document.getElementById("symbols");
 const generateBtn = document.getElementById("generate");
 
 
+
 // Add event listener to generate button
 generateBtn.addEventListener("click", () => {
   let characters = alphabet;
